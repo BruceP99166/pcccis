@@ -1,5 +1,5 @@
 User Stories
-1. As a student I want to run my code and see the results in the simulator.
+1. As a student I want to run my code and see the results in the simulator. Test
 2. As a student I want to see an error message when an error is encountered during execution
   Possible errors: (1) Don't recognize this statement. (2) Cannot execute this statement.
 3. As a student I want to execute my code one step at a time so that I can debug it.
